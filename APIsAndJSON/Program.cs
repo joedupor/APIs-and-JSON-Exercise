@@ -18,6 +18,8 @@ namespace APIsAndJSON
 
             RonVSKanyeAPI.Conversation();
 
+            OpenWeatherMapAPI.WeatherInquiry();
+
         }
     }
 }
